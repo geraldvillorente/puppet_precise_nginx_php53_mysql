@@ -1,4 +1,4 @@
-puppet_precise_nginx_php53_mysql
+Puppet Ubuntu Precise, Nginx, PHP5.3, and MySQL
 ================================
 
 Puppet script with Ubuntu Precise, Nginx, PHP5.3, and MySQL.
